@@ -1,8 +1,12 @@
 # Notebook-note_taking_app
-## 
+## Notebook, a notes managing website, includes technologies such as React.js and Tailwind CSS.
 ---
 ## Features 
-- user authentication.
+- Create, update, delete, and read notes
+- Uses local storage to store notes data.
+- Includes pagination, allowing you to show 10 notes per page.
+- Responsive design and works on every screen width.
+
 
 
 ![image](https://res.cloudinary.com/dzlpv4yx6/image/upload/v1722097151/social-media-images/od43dix9h23uet6duncg.png)
