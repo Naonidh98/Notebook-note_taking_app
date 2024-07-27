@@ -17,28 +17,17 @@
 ## Getting Started
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/himanshu8443/SocialSphere.git
+git clone https://github.com/himanshu8443/SocialSphere.git](https://github.com/Naonidh98/Notebook-note_taking_app.git
 ```
-2. Set up the environment variables: <br>
-Create `.env` in root and `./server` folders check `.env.example` file of the respectable folder to get environment variables.
-
-3. Install the required packages.
+2. Install the required packages.
 ```bash
-cd SocialSphere
+cd Notebook-note_taking_app
 npm install
 ```
-4. Start server
+3. Start server
 ```bash
-cd server
-npx prisma generate
-cd ..
-npm run dev:server
-```
-5. Start client
-```bash
-npm run dev:client
+npm run dev
 ```
 
 
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your port with your browser to see the result.
