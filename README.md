@@ -17,7 +17,7 @@
 ## Getting Started
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/himanshu8443/SocialSphere.git](https://github.com/Naonidh98/Notebook-note_taking_app.git
+git clone https://github.com/Naonidh98/Notebook-note_taking_app.git
 ```
 2. Install the required packages.
 ```bash
