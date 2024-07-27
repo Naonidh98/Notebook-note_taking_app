@@ -1,14 +1,13 @@
 # Notebook-note_taking_app
-## Social Media application built using T3 stack ( TRPC, NextJs, TypeScript Tailwind, Prisma).
+## 
 ---
 ## Features 
 - user authentication.
-- Images/ video upload
-- like/unlike posts.
-- follow/unfollow users.
-- comment on posts.
+
 
 ![image](https://res.cloudinary.com/dzlpv4yx6/image/upload/v1722097151/social-media-images/od43dix9h23uet6duncg.png)
+
+![image](https://res.cloudinary.com/dzlpv4yx6/image/upload/v1722097151/social-media-images/az8klpwfhtd44du2bzph.png)
 
 
 ## Getting Started
